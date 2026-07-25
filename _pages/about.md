@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Research Fellow. <a href='https://www.ntnu.edu/employees/juliane.m.k.stoetter'>Norwegian University of Science and Technology (NTNU)</a>.
+subtitle: Doctoral Research Fellow. <a href='https://www.ntnu.edu/employees/juliane.m.k.stoetter' >Norwegian University of Science and Technology (NTNU)</a>.
 
 profile:
   align: right
