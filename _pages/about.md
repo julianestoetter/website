@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Doctoral Research Fellow <a href='#'>Norwegian University of Science and Technology (NTNU)</a>.
 
 profile:
   align: right
