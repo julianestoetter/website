@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    Dragvoll
-    Edvard Bulls veg 1
-    7491 Trondheim
+    <p>Dragvoll</p>
+    <p>Edvard Bulls veg 1</p>
+    <p>7491 Trondheim</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
